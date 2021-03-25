@@ -1,0 +1,16 @@
+{
+  "name": "jsip",
+  "version": "1.0.0",
+  "description": "A JavaScript image processing library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node Imager-test.js"
+  },
+  "author": "Brady Geleynse",
+  "license": "GPL 3.0",
+  "dependencies": {
+    "get-pixels": "3.3.2",
+    "ndarray": "1.0.19",
+    "save-pixels": "2.3.4"
+  }
+}
